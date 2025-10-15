@@ -9,3 +9,4 @@ que consistem e como podem ser resolvidos esses conflitos?
 Resposta: O conflito pode ocorre quando duas versões de um mesmo ficheiro têm alterações incompatíveis nas mesmas linhas. para esses casos a forma de resolver é escolhendo manualmente a versão a considerar.
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
+Resposta: A diferença entre Clone e Fork é que enquanto Clone permite criar branch de um repositório online para ser usado localmente, o Fork cria um branch a ser usado no repositório na online.
