@@ -6,5 +6,6 @@ Resposta: “Commit” é uma operação que serve para guardar as alterações 
 Resposta: Usar Branches num repositório git é vantajoso porque permite fazer alterações sem comprometer o código principal.
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+Resposta: O conflito pode ocorre quando duas versões de um mesmo ficheiro têm alterações incompatíveis nas mesmas linhas. para esses casos a forma de resolver é escolhendo manualmente a versão a considerar.
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
